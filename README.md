@@ -7,9 +7,7 @@ Açıklama:
 Bu süreçte JavaScript'i kullanarak interaktif özellikler ekledim, verileri işledim ve web sayfalarına dinamizm kattım. Bu repo, JavaScript öğrenme sürecimde kaydettiğim ilerlemeleri ve yaptığım uygulamaları paylaşma amacıyla oluşturuldu.
 
 Projelerimin Özellikleri:
-- JavaScript'in temel kavramlarına odaklanan basit uygulamalar
-- DOM manipülasyonuyla interaktif web sayfaları oluşturma
-- AJAX istekleriyle veri alışverişi gerçekleştirme
+- Html, CSS ve JavaScript'in temel kavramlarına odaklanan basit uygulamalar
 - JavaScript kütüphaneleri ve çatılarıyla yapılan entegrasyon örnekleri
 
 Katkıda Bulunma:
